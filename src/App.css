@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.ant-btn {
+  @apply !text-center;
+}
